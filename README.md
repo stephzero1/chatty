@@ -1,13 +1,13 @@
 # chatty
 
-=========================================================================
+========================
 Progetto presentato per l'esame di Sistemi Operativi 2017/2018
-========================================================================
+========================
 
 Il progetto prevede lo sviluppo di un server concorrente che implementa
 una chat: chatterbox. Il nome dato al server e' chatty.
 
-------------------
+-----------------
 Test inclusi :
 -----------------
 
